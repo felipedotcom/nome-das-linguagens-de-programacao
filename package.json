@@ -1,0 +1,24 @@
+{
+  "name": "nome-das-linguagens-de-programacao",
+  "version": "1.0.0",
+  "description": "Nome de várias linguagens de programação",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipedotcom/nome-das-linguagens-de-programacao.git"
+  },
+  "keywords": [
+    "linguagens",
+    "de",
+    "programação"
+  ],
+  "author": "Felipe Nascimento <felipe_rnascimento@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipedotcom/nome-das-linguagens-de-programacao/issues"
+  },
+  "homepage": "https://github.com/felipedotcom/nome-das-linguagens-de-programacao#readme"
+}
